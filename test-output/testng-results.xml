@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-23T16:46:02 PDT" name="Default suite" finished-at="2024-03-23T16:48:04 PDT" duration-ms="121817">
+    <groups>
+    </groups>
+    <test started-at="2024-03-23T16:46:02 PDT" name="Default test" finished-at="2024-03-23T16:48:04 PDT" duration-ms="121817">
+      <class name="UchitachoksiTesting.theScoreProject.theScoreApp">
+        <test-method is-config="true" signature="configurationtest()[pri:0, instance:UchitachoksiTesting.theScoreProject.theScoreApp@27f981c6]" started-at="2024-03-23T16:46:02 PDT" name="configurationtest" finished-at="2024-03-23T16:46:25 PDT" duration-ms="22249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configurationtest -->
+        <test-method signature="AppSetUp()[pri:0, instance:UchitachoksiTesting.theScoreProject.theScoreApp@27f981c6]" started-at="2024-03-23T16:46:25 PDT" name="AppSetUp" finished-at="2024-03-23T16:46:40 PDT" duration-ms="15266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppSetUp -->
+        <test-method signature="LeagueSelection()[pri:0, instance:UchitachoksiTesting.theScoreProject.theScoreApp@27f981c6]" started-at="2024-03-23T16:46:40 PDT" name="LeagueSelection" finished-at="2024-03-23T16:47:06 PDT" duration-ms="26369" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LeagueSelection -->
+        <test-method signature="TeamSelection()[pri:0, instance:UchitachoksiTesting.theScoreProject.theScoreApp@27f981c6]" started-at="2024-03-23T16:47:06 PDT" name="TeamSelection" finished-at="2024-03-23T16:47:20 PDT" duration-ms="14141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TeamSelection -->
+        <test-method signature="searchplayername(java.lang.String)[pri:0, instance:UchitachoksiTesting.theScoreProject.theScoreApp@27f981c6]" started-at="2024-03-23T16:47:20 PDT" name="searchplayername" data-provider="getdata" finished-at="2024-03-23T16:48:02 PDT" duration-ms="41818" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kelce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchplayername -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:UchitachoksiTesting.theScoreProject.theScoreApp@27f981c6]" started-at="2024-03-23T16:48:02 PDT" name="teardown" finished-at="2024-03-23T16:48:04 PDT" duration-ms="1850" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- UchitachoksiTesting.theScoreProject.theScoreApp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
