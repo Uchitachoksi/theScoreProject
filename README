@@ -1,0 +1,6 @@
+Install Eclipse IDE v:4.19.0
+There is POM file included which has maven repository dependencies appium and TestNg
+sre/main/java file has package UchitachoksiTesting.thescoreproject which has main program name the scoreapp
+The program is designed using TestNg framework which 
+Open program and run as TestNg
+      
