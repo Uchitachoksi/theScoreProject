@@ -3,6 +3,7 @@ From Github, download the project into your local machine
 There is POM file included which has maven repository dependencies of appium and TestNg which is required to run the project.
 src/main/java file has package UchitachoksiTesting.thescoreproject which has main program name the scoreapp
 The program is designed using TestNg framework which has @BeforeClass and @AfterClass annotatinos which helps to configure appium settings for different test methods.
-Open program and run as TestNg using Eclipse.
+Run Appium server from terminal in macbook manually
+Run the program as TestNg from eclipse. 
 
       
